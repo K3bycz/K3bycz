@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFxcWdpem5sMHJxMGlucTRkdmRkMDdoMHgxbWdkZjR6b2IwYW5udiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 <div align="left">
-    <p>🎓 <strong>Third-Year Computer Science Student</strong></p>
+    <p>🎓 <strong>Fourth-Year Computer Science Student</strong></p>
     <p>📍 Collegium Da Vinci</p>
 </div>
 
