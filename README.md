@@ -8,7 +8,7 @@
 </div>
 
 <div align="left">
-    <p>💻 <strong>Fullstack Developer with ~1 Year of Experience</strong></p>
+    <p>💻 <strong>Fullstack Developer with ~2 Year of Experience</strong></p>
     <p>Worked on various projects using:</p>
     <ul>
         <li><strong>Backend</strong>: PHP, Laravel</li>
