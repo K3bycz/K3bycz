@@ -81,6 +81,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
       </a>
     </td>
+    <td align="center" style="padding:10px">
+      <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
 
